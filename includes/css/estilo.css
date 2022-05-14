@@ -1,0 +1,89 @@
+/* GENERALES */
+*       {margin:0; padding:0; z-index:1;}
+body    {color:#333333; font:16px "Arial","Helvetica",sans-serif; text-align:center;background-color:#F6F2E9;}
+a       {outline-style:none; cursor:pointer; text-decoration:none; font:14px "Arial","Helvetica",sans-serif;}
+img     {border-width:0px;}
+#main   {position:relative; width:980px; margin:0 auto;background-color:white;}
+
+#principal  {width:100%;height:500px;text-align:justify;background-color:white;}
+#logo       {width:100%;height:70px;display:block;}
+#logo img   {width:100%;display:block;margin:auto;}
+#login      {width:100%;height:40px;background:white;
+background: #3232c6; /* Old browsers */
+background: -moz-linear-gradient(left, #1f1fbf 0%, #e5e3da 49%); /* FF3.6+ */
+/* INI COMENTADO POR ADVERTENCIA filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e3da',GradientType=1 ); FIN COMENTADO POR ADVERTENCIA*/ /* IE6-9 */
+/*INI COMENTADO POR ADVERTENCIA background: linear-gradient(left, #ffffff 0%,#e5e3da 49%); FIN COMENTADO POR ADVERTENCIA*/ /* W3C */}
+
+#login input{float:right;width:180px;height:20px;margin:10px 20px 0 20px;}
+#menu       {float:left;width:110px;margin:5px 0px 0px 10px;background-color:white;
+             /*INI COMENTADO POR ADVERTENCIA filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe169', endColorstr='#FF7E00',GradientType=0 ); FIN COMENTADO POR ADVERTENCIA*/ /* IE6-9 */
+background:-moz-linear-gradient(top, #5c31e5 0%, #a389f7 100%); /* FF3.6+ */
+/*INI COMENTADO POR ADVERTENCIA background:linear-gradient(top, #3e58cc 0%,#94a1dc 100%); FIN COMENTADO POR ADVERTENCIA*//* W3C */}
+
+#login span {float:right;margin-top:12px;font:14px "Arial","Helvetica",sans-serif;}
+
+#menu ul    {list-style:none;margin:5px;color:white;}
+.submenu	{color:white;margin:10px 5px;cursor:pointer;}
+.posmenu	{cursor:pointer;}
+.mmenu	    {margin-left:20px;}
+#menu ul li a {color:white;text-decoration:none;}
+#menu ul li a:hover {font-weight:bold;}
+
+#contenido   {float:left;width:840px;background-color:white;margin:5px 10px;}
+#contenido p {margin-bottom:5px;}
+#cerrar      {float:right;margin:10px 30px 0 0;text-decoration:none;color:black;}
+#usuario	 {float:right;font-size:16px;margin:10px 30px;color:black;font-size:15px;font-weight:bold;}
+.menu        {float:left;padding:10px 30px;text-decoration:none;color:black;}
+.menu_select {float:left;padding:10px 30px;text-decoration:none;color:black;background-color:#e5e3da;border:1px solid #333;}
+.menu:hover  {background-color:#e5e3da;}
+
+#carrusel    {float:left;width:400px;height:300px;margin-bottom:10px;}
+#carrusel img{width:400px;height:300px;}
+#texto       {float:left;width:400px;margin:0 20px;}#main #principal table tr td div table {
+	color: #000;
+}
+#main #principal table tr td div table tr th p {
+	color: #000;
+}
+#main #principal table tr td div table tr th p {
+	font-family: Comic Sans MS, cursive;
+}
+#main #principal table tr td div table tr th div {
+	color: #000;
+}
+#main #principal div table tr td {
+	color: #000;
+}
+#main #principal div h3 {
+	color: #0000A0;
+}
+#main #principal div table tr td div table tr th div p {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+#main #principal div table tr td div table tr th p strong {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+#main #principal div table tr td div table form tr th h4 strong {
+	font-family: Times New Roman, Times, serif;
+}
+#main #principal div table tr th table tr td {
+	color: #000;
+}
+#main #principal div table tr th table tr td {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+#main #principal div table tr th table tr th div p strong {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+#main #principal div table tr td div table form tr th h4 strong {
+	color: #000;
+}
+#main #principal div table tr th table tr th div p {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+#main #principal div table tr th table tr td {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+#main #principal div table tr td div table form tr th h4 strong {
+	color: #000;
+}

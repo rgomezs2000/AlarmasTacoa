@@ -1,0 +1,85 @@
+.text1 {
+	color:#666; font-family:Arial; font-size:8pt; width:100px; height:20px; background:none; border-color:#000099;
+}
+.text2 {
+	color:#666;
+	font-weight:bold;
+	font-family:Calibri (Body);
+	font-size:8pt;
+	border-color:#006;
+}
+.textSubTitulo {
+	color:#666;
+	font-weight:bold;
+	font-family:Calibri (Body);
+	font-size:10pt;
+	border-color:#006;
+}
+.textTitulo {
+	color:#CC0000;
+	font-weight:bold;
+	font-family: Calibri (Body);
+	font-size:14pt;
+	border-color:#006;
+}
+.textTituloTabla {
+	color:#FFF;
+	font-weight:bold;
+	font-family:Calibri (Body);
+	font-size:10pt;
+	background:#CC0000;
+	border-color:#006;
+}
+.textRegistroGris {
+	color:#333;
+	font-weight:bold;
+	font-family:Calibri (Body);
+	font-size:8pt;
+	background:#CCC;
+	border-color:#006;
+}
+.textRegistroRosado {
+	color:#333;
+	font-weight:bold;
+	font-family:Calibri (Body);
+	font-size:8pt;
+	background:#FFC;
+	border-color:#006;
+}
+.textRegistroAzul {
+	color:#333;
+	font-weight:bold;
+	font-family:Calibri (Body);
+	font-size:8pt;
+	background:#d0d8e8;
+	border-color:#006;
+}
+.textRegistroVerde {
+	color:#333;
+	font-weight:bold;
+	font-family:Calibri (Body);
+	font-size:8pt;
+	background:#e9edf4;
+	border-color:#006;
+}
+.textfonBlanco {
+	color:#666; font-family:Arial; font-size:8pt; width:150px; height:20px; background:#FFFFFF; border-color:#666;
+}
+.textfonBlancoCorto {
+	color:#666; font-family:Arial; font-size:8pt; width:100px; height:20px; background:#FFFFFF; border-color:#666;
+}
+.textAreafonBlanco {
+	color:#666; font-family:Arial; font-size:8pt; width:400px; height:80px; background:#FFFFFF; border-color:#666;
+}
+.textfonNegro {
+	color:#666; font-family:Arial; font-size:15pt; width:100px; height:20px; background:#FFFFFF; border-color:#000099;
+}
+.textfonBlancoPeq {
+	color:#666; font-family:Arial; font-size:6pt; width:50px; height:20px; background:#FFFFFF; border-color:#000099;
+}
+.textafonBlancoPeq {
+	color:#666; font-family:Arial; font-size:6pt; width:50px; background:#FFFFFF;
+}
+.error {
+	color: #F00; font-weight: bold;
+}
